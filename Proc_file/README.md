@@ -1,4 +1,4 @@
-#Project 1: Kernel Module
+# Project 1: Kernel Module
 In this project, you will learn how to create a kernel module and load it into the Linux kernel. 
 You will then modify the kernel module so that it creates an entry in the /proc file system
 
